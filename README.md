@@ -162,7 +162,7 @@ If you like this project, feel free to contact me for more details and explanati
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse for the good work and data provided..
+I would like to thank microverse for the good work and data provided.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
